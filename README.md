@@ -4,5 +4,16 @@ This project presents an interactive web demonstration of the covariate shift pr
 
 ## Setup
 Programs are implemented in Python.
-
 The following packages can be installed via `pip` or `conda`:
+
+- `numpy`
+- `streamlit`
+- `matplotlib`
+- `math`
+- `scikit-learn`
+- `logging`
+
+
+## Usage
+Run the following.
+- `streamlit run main.py`
